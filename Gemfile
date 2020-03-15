@@ -6,7 +6,7 @@ ruby '2.6.5'
 source 'https://rubygems.org'
 
 gem 'rails',        '5.2'
-gem 'puma',         '3.9.1'
+gem 'puma',         '3.12.4'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
